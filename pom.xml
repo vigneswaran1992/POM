@@ -63,11 +63,7 @@
 				<version>2.19.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>TC003_testng_CreateLead.xml</suiteXmlFile>
-						<suiteXmlFile>TC004_testng_EditLead.xml</suiteXmlFile>
-						<suiteXmlFile>TC005_testng_DuplicateLead.xml</suiteXmlFile>
-						<suiteXmlFile>TC006_testng_DeleteLead.xml</suiteXmlFile>
-						<suiteXmlFile>TC007_testng_MergeLeads.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
